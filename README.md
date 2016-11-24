@@ -4,3 +4,6 @@ The NAMOS functions list was changed for the versions 7.160, 7.180 and 7.190. Th
 
 Changes:
 Disabled posfc = 22 “Training mode” for TDE (CR 816)
+
+Best regards,
+Klaus-Peter Garny.
